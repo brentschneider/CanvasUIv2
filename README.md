@@ -10,14 +10,14 @@ The new Canvas User Interface (UI) is an updated interface structure enhanced by
 [CanvasThemeEditorImageTemplates.pdf](https://s3.amazonaws.com/tr-learncanvas/docs/CanvasThemeEditorImageTemplates.pdf)
 
 
-### Css
+### CSS File
 
- - Institution-Canvas-Theme.css
+- [Institution-Canvas-Theme.css](source/Institution-Canvas-Theme.css)
 
 
-### Js
+### Js File
 
- - Institution-Canvas-Theme.js
+ - [Institution-Canvas-Theme.js](source/Institution-Canvas-Theme.js)
 
 
 
